@@ -7,5 +7,14 @@
  	<a href="https://www.twitch.tv/johnnypvlace" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCxvSOzzCS1rQtDC-87NdiZA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
-  ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=Johnnypvlace&show_icons=true&theme=dracula&count_private=true)
+<table>
+  <tr>
+    <td>
+       <img align="left" src="https://github-readme-stats.vercel.app/api?username=Johnnypvlace&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Github stats" />
+      </td>
+    <td>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnnypvlace&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github stats" />
+  </td>
+</table>
+
 </div>
